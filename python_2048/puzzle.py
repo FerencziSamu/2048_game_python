@@ -1,7 +1,7 @@
 import random
 from tkinter import Frame, Label, CENTER
 
-import logic
+import logic as logic
 import constants as c
 
 
